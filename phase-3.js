@@ -4,6 +4,7 @@ function addNums10Timing(increment) {
   // Copy your `addNums10` code here
   // Then, add timing code
 
+  
   // Your code here
 
 }
